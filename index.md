@@ -13,6 +13,6 @@
 - 💪 **_with SUPPORT_** : [join the Discord!](https://discord.gg/BHMz3axqUG) The server will support users and announce
   the availability of the new version.
 
-Dominion is still in early stages :baby_bottle:. The API is not yet complete and not fully implemented, but every part already
+Dominion is still in early stages 🍼. The API is not yet complete and not fully implemented, but every part already
 built comes with unit tests and benchmarks. There are currently no releases yet and first release is scheduled for the
 first quarter of 2022.
