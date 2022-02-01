@@ -1,6 +1,6 @@
 # Insanely fast ECS for Java
 
-Dominion is an [Entity Component System](https://en.wikipedia.org/wiki/Entity_component_system) library for Java
+[Dominion](https://github.com/dominion-dev/dominion-ecs-java) is an [Entity Component System](https://en.wikipedia.org/wiki/Entity_component_system) library for Java
 
 ## Features
 
