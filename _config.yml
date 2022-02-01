@@ -1,2 +1,7 @@
 theme: jekyll-theme-hacker
+plugins:
+  - jekyll-seo-tag
 title: Dominion
+tagline: Insanely fast ECS for Java
+description: Dominion is an Entity Component System library for Java
+url: www.dominion.dev
