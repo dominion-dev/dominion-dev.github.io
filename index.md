@@ -1,4 +1,4 @@
-# <img src="dominion-logo-square.png" align="right" width="100">Insanely fast ECS for Java
+# <img src="dominion-logo-square.png" align="right" width="100">Dominion - Insanely fast ECS for Java
 
 [Dominion](https://github.com/dominion-dev/dominion-ecs-java) is an [Entity Component System](https://en.wikipedia.org/wiki/Entity_component_system) library for Java
 
