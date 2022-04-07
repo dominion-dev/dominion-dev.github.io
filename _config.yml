@@ -6,3 +6,5 @@ tagline: Insanely fast ECS for Java
 description: Dominion is an Entity Component System library for Java
 logo: dominion-logo-square.png
 url: www.dominion.dev
+github:
+  is_project_page: false
