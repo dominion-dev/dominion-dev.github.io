@@ -101,4 +101,4 @@ the [dominion-ecs-examples](https://github.com/dominion-dev/dominion-ecs-java/tr
 
 ## Support Dominion
 
-If you want to support Dominion project, consider giving it a **Star** ⭐️
+If you want to support Dominion project, consider giving it a [**Star** ⭐️](https://github.com/dominion-dev/dominion-ecs-java) 
