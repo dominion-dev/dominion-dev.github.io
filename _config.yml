@@ -3,8 +3,8 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 title: '|) O M I N I O N'
-tagline: Insanely fast ECS for Java
-description: Dominion is an Entity Component System library for Java
+tagline: An insanely fast ECS for Java
+description: An Entity Component System library for Java
 logo: dominion-logo-square.png
 url: www.dominion.dev
 github:
