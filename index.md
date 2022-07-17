@@ -1,16 +1,26 @@
-# <img src="dominion-logo-square.png" align="right" width="100">Dominion
+# <img src="https://raw.githubusercontent.com/dominion-dev/dominion-dev.github.io/main/dominion-logo-square.png" align="right" width="100">|) () |\\/| | |\\| | () |\\|
 
-[Dominion](https://github.com/dominion-dev/dominion-ecs-java) is an [Entity Component System](https://en.wikipedia.org/wiki/Entity_component_system) library for Java
+[![Java CI with Maven](https://github.com/dominion-dev/dominion-ecs-java/actions/workflows/ci-maven.yml/badge.svg)](https://github.com/dominion-dev/dominion-ecs-java/actions/workflows/ci-maven.yml)
+![CodeQL](https://github.com/dominion-dev/dominion-ecs-java/actions/workflows/codeql-analysis.yml/badge.svg)
 
-Entity Component System architecture promotes data-oriented programming. It’s all about data (components) and first-class functions (systems) that operate on data. 
+Dominion is an [Entity Component System](https://en.wikipedia.org/wiki/Entity_component_system) library for Java.
 
-This means that, unlike OOP, data and operations are not encapsulated together in objects, which are called entities in ECS. 
+Entity Component System (ECS) architecture promotes data-oriented programming. It’s all about data (components) and
+first-class functions (systems) that operate on data.
 
-Entities model the business objects of the user application, and the entity promotes "composition over inheritance" by grouping a dynamic list of components to define its specific features.
+This means that, unlike OOP, data and operations are not encapsulated together in objects, which are called entities in
+ECS.
 
-Systems usually operate on components sequentially and can be very fast if data are stored in cache-friendly ways. Systems are decoupled from each other and each system knows only about the data it operates on. This strongly promotes high concurrency, running systems in parallel whenever they can independently operate on the data.
+Entities model the business objects of the user application, and the entity promotes "composition over inheritance" by
+grouping a dynamic list of components to define its specific features.
 
-ECS architecture is particularly suitable (but not limited to) if you have to manage many objects in your application. In addition, application code tends to be more reusable and easier to extend with new functionality thanks to the components' composition and subsequent addition of new systems.
+Systems usually operate on components sequentially and can be very fast if data are stored in cache-friendly ways.
+Systems are decoupled from each other and each system knows only about the data it operates on. This strongly promotes
+high concurrency, running systems in parallel whenever they can independently operate on the data.
+
+ECS architecture is particularly suitable (but not limited to) if you have to manage many objects in your application.
+In addition, application code tends to be more reusable and easier to extend with new functionality thanks to the
+components' composition and subsequent addition of new systems.
 
 ## Dominion Features
 
@@ -41,7 +51,7 @@ Add the following dependency declaration in your project pom.xml:
         <dependency>
             <groupId>dev.dominion.ecs</groupId>
             <artifactId>dominion-ecs-engine</artifactId>
-            <version>0.6.0-SNAPSHOT</version>
+            <version>0.7.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
@@ -177,4 +187,4 @@ Dominion is officially in _**Early Access**_.
 
 ## Support Dominion
 
-If you want to support Dominion project, consider giving it a [**Star** ⭐️](https://github.com/dominion-dev/dominion-ecs-java) 
+If you want to support Dominion project, consider giving it a **Star** ⭐️
