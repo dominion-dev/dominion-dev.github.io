@@ -171,6 +171,9 @@ Dominion is officially in _**Early Access**_.
 
 [Join the Discord for further updates!](https://discord.gg/BHMz3axqUG)
 
+## Credits
+
+[![Java Profiler](https://www.ej-technologies.com/images/product_banners/jprofiler_small.png)](https://www.ej-technologies.com/products/jprofiler/overview.html)
 
 ## Support Dominion
 
