@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/dominion-dev/dominion-dev.github.io/main/dominion-logo-square.png" align="right" width="100">Dominion
 
 
-Dominion is an [Entity Component System](https://en.wikipedia.org/wiki/Entity_component_system) library for Java.
+[Dominion](https://github.com/dominion-dev/dominion-ecs-java) is an [Entity Component System](https://en.wikipedia.org/wiki/Entity_component_system) library for Java.
 
 Entity Component System (ECS) architecture promotes data-oriented programming. It’s all about data (components) and
 first-class functions (systems) that operate on data.
