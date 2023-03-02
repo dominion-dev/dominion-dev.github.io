@@ -51,7 +51,7 @@ Add the following dependency declaration in your project pom.xml:
         <dependency>
             <groupId>dev.dominion.ecs</groupId>
             <artifactId>dominion-ecs-engine</artifactId>
-            <version>0.8.0-SNAPSHOT</version>
+            <version>0.9.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
@@ -162,7 +162,7 @@ Dominion comes with some documented sample apps to help adopt the solution, like
 The **DarkEntities** sample app has also been added, it could inspire a turn-based rogue-like game running on a terminal
 window:
 
-<img src="https://raw.githubusercontent.com/dominion-dev/dominion-ecs-java/main/dominion-ecs-examples/dark-entities-01.gif">
+<img alt="dark-entities" src="https://raw.githubusercontent.com/dominion-dev/dominion-ecs-java/main/dominion-ecs-examples/dark-entities-01.gif">
 
 Here
 the [Dominion Examples](https://github.com/dominion-dev/dominion-ecs-java/blob/main/dominion-ecs-examples/README.md)
