@@ -2,7 +2,7 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
-title: '|) O M I N I O N'
+title: 'D O M I N I O N'
 tagline: An insanely fast ECS library for Java
 description: An insanely fast ECS library for Java
 logo: dominion-logo-square.png
